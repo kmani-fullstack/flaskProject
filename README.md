@@ -1,5 +1,5 @@
 ### Flask Project with Docker
 
-#### To execute in Docker
+#### To debug from Docker using VSCode
 
 $ docker compose -f docker-compose.yml -f docker-compose.debug.yml up
